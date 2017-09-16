@@ -1,0 +1,21 @@
+{
+    "name": "SDM Energy Meter",
+    "keywords": "modbus, energy meter, communtication, eastron, power analyser",
+    "description": "Arduino template library for reading SDM120 / SDM220 / SDM630 Modbus Energy meters.",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/reaper7/SDM_Energy_Meter.git"
+    },
+    "authors": 
+    [
+      {
+        "name": "reaper7",
+        "maintainer": true
+      }
+    ],
+    "version": "1.0.3",
+    "frameworks": "arduino",
+    "platforms": "esp8266"
+  }
+  
